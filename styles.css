@@ -1,0 +1,39 @@
+table{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    width: 45px;
+    height: 45px;
+    border-radius: 3px;
+}
+.header{
+    text-align: left;
+    height: 40px;
+    color: #1a1a1a;
+}
+tr{
+    height: 65px;
+}
+.image-col{
+    width: 65px;
+}
+.display{
+    width: 230px;
+    color: #8e8e8e;
+    font-size: 14px;
+    font-weight: bold;
+}
+.icon{
+    width: 30px;
+}
+.material-icons{
+    color: #b9b9b9;
+}
+
+.song-title{
+    color: #333333;
+    font-size: 16px;
+    font-weight: bold;
+}
